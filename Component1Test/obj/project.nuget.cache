@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "CGKFBBgVYld//pCuAn9nc77drRWSyDvNPDqZ2D9fGdil3rZGEKU1Ern0fOH72iLZJyUPECoA52B34h7Iodv4gQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\source\\repos\\Component1\\Component1Test\\Component1Test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.net.test.sdk\\16.5.0\\microsoft.net.test.sdk.16.5.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\nunit3testadapter\\3.16.1\\nunit3testadapter.3.16.1.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\system.windows.forms\\4.0.0\\system.windows.forms.4.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
